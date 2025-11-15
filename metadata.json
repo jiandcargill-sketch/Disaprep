@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DisaPrep AI",
+  "description": "A personalized disaster preparedness application that uses AI to generate custom safety plans, checklists, and recommendations based on your location and specific risks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
